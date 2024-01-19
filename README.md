@@ -1,7 +1,8 @@
-## Search Projects From My Github with source code
+## Search Projects From My GitHub with source code
+</br>
 
 <details>
-  <summary>⚡ My React Projects</summary>
+  <summary>🇷‌🇪‌🇦‌🇨‌🇹‌ 🇵‌🇷‌🇴‌🇯‌🇪‌🇨‌🇹‌🇸‌ </summary>
 
 | Project Name 🌐 [Live-link ]                                           | Github_link     | Description             |
 | ---------------------------------------------------------------------- | --------------- | ----------------------- |
