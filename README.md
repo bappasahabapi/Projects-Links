@@ -5,7 +5,7 @@
 <details>
   <summary>🇷‌🇪‌🇦‌🇨‌🇹‌       𝗣𝗥𝗢𝗝𝗘𝗖𝗧 </summary>
 
-| Project Name 🌐 [Live-link ]                                           | Github_link + Level                                                                                                                  | Description + Technology                                                                                               |
+| Project Name 🌐 [Live-link ]                                           | Github_link + Level                                                                                                                  |Lavel + Description + Technology                                                                                               |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | ⭐ [Smart Grade System ](https://smart-grade-vercel-three.vercel.app/) | **🔒-private**                                                                                                                       | **[Beginner]** Html to react component                                                                                 |
 | ⭐ Tic Tac Toe                                                         | [🐞](https://github.com/bappasahabapi/tic-tac-toy-2024)                                                                              | **[MID]** Basic Tic Tac Toy game which is created by by following the official document of react dev.                  |
