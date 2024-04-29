@@ -1,3 +1,7 @@
+## React Notion Hand Note
+- [React-18](https://www.notion.so/React-Note-2024-937311c869de4060b21fc37dd2120e33?pvs=4)
+- [TypeScript-Notes](https://snapdragon-mambo-8cb.notion.site/TypeScript-ad7a23778eea4ba4bee18f944e8fb0c2)
+
 ## Search Projects From My Github with source code
 
 </br>
