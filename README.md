@@ -1,3 +1,6 @@
+### My Roadmap 
+- [My learning roadmap](https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit#gid=2003874262)
+
 ## React Notion Hand Note
 - [React-18](https://www.notion.so/React-Note-2024-937311c869de4060b21fc37dd2120e33?pvs=4)
 - [TypeScript-Notes](https://snapdragon-mambo-8cb.notion.site/TypeScript-ad7a23778eea4ba4bee18f944e8fb0c2)
