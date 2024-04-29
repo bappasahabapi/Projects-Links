@@ -20,26 +20,31 @@
 
 -- 
 
-## Next js 13 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 [typescript+redux+rtk+antd]
-<details>
-  <summary Next js 13 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 [typescript+redux+rtk+antd] </summary>
-    
--  [RMSTU-Frontend-13.4 app-base](https://github.com/bappasahabapi/rmstu-frontend)
--  [next-js-13.4-pageRoute-app](https://github.com/bappasahabapi/next-js-13.4-pageRoute-app)
--  [next-js-13.4-pagebase-NewsPortal](https://github.com/bappasahabapi/next-js-13.4-pagebase-NewsPortal)
--  [next-js13-page-projects](https://github.com/bappasahabapi/next-js13-page-projects)
-</details>
 
 
-##  Next js-14 𝗣𝗥𝗢𝗝𝗘𝗖𝗧
-<details>
-  <summary Next js-14 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 </summary>
-    
-- [Next js-14 Starer](https://github.com/bappasahabapi/react-vite-2024/tree/starter/Nextjs-14) 
-- [Next js-14 Basic Routing](https://github.com/bappasahabapi/react-vite-2024/tree/r7/7.0/Nextjs-14/basic-routing)
+
+- <h1>Next js-14 𝗣𝗥𝗢𝗝𝗘𝗖𝗧</h1>
+
+    <details>
+    <summary>Github link with source code</summary>
+
+  - [Next js-14 Starer](https://github.com/bappasahabapi/react-vite-2024/tree/starter/Nextjs-14) 
+  - [Next js-14 Basic Routing](https://github.com/bappasahabapi/react-vite-2024/tree/r7/7.0/Nextjs-14/basic-routing)
   - 🚇 Implemented Project is: [nextjs-14-documentation-app](https://github.com/bappasahabapi/nextjs-14-documentation-app)
-- 🌳 [Next js-14 Advanced Routing](https://github.com/bappasahabapi/react-vite-2024/tree/r8/8.0/Nextjs-14/Advanced-routing)
-</details>
+  
+    </details>
+
+- <h1>Next js-13 𝗣𝗥𝗢𝗝𝗘𝗖𝗧</h1>
+
+    <details>
+    <summary>Next js 13 Project <b>[typescript + redux+ rtk + antd ]</b> </summary>
+
+    -  [RMSTU-Frontend-13.4 app-base](https://github.com/bappasahabapi/rmstu-frontend)
+    -  [next-js-13.4-pageRoute-app](https://github.com/bappasahabapi/next-js-13.4-pageRoute-app)
+    -  [next-js-13.4-pagebase-NewsPortal](https://github.com/bappasahabapi/next-js-13.4-pagebase-NewsPortal)
+    -  [next-js13-page-projects](https://github.com/bappasahabapi/next-js13-page-projects)
 
 
+    </details>
 
+    
