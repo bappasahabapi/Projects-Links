@@ -1,5 +1,6 @@
 ### My Roadmap 
 - [My learning roadmap](https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit#gid=2003874262)
+- [Notion Notes](https://www.notion.so/React-Note-2024-937311c869de4060b21fc37dd2120e33?pvs=4)
 
 ![Roadmap](./roadmap.png)
 
